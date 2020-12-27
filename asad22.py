@@ -87,7 +87,7 @@ logo2 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -126,7 +126,7 @@ logo4 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -146,7 +146,7 @@ logo5 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- Malang MALANG
 
@@ -166,7 +166,7 @@ logo6 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Atif jan
+\033[1;91m--> GITHUB :- https://github.com/Mr Asad jan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -186,7 +186,7 @@ logo7 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -206,7 +206,7 @@ logo8 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Atif jan
+\033[1;91m--> GITHUB :- https://github.com/Mr Asadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -226,7 +226,7 @@ logo11 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/Mr Atif Jan
+\033[1;91m--> GITHUB :- https://github.com/Mr Asad Jan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -249,7 +249,7 @@ logo12 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -269,7 +269,7 @@ logo13 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -289,7 +289,7 @@ logo14 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -309,7 +309,7 @@ logo15 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -329,7 +329,7 @@ logo16 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -349,7 +349,7 @@ logo17 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -369,7 +369,7 @@ logo18 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░╰╯
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -389,7 +389,7 @@ logo19 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -409,7 +409,7 @@ logo20 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -429,7 +429,7 @@ logo21 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -449,7 +449,7 @@ logo22 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -469,7 +469,7 @@ logo23 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -489,7 +489,7 @@ logo24 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -510,7 +510,7 @@ logo25 = """
 ██║░░██║██████╔╝██║░░██║██████╔╝
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 
-\033[1;91m--> GITHUB :- https://github.com/MrAtifjan
+\033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
 \033[1;92m--> FACEBOOK :- MALANG MALANG
 
@@ -577,8 +577,8 @@ print  """
 
 """
 
-CorrectUsername = "MALANG"
-CorrectPassword = "SARKAR22"
+CorrectUsername = "ASAD"
+CorrectPassword = "ATIF"
 
 loop = 'true'
 while (loop == 'true'):
