@@ -577,7 +577,7 @@ print  """
 
 """
 
-CorrectUsername = "ASAD"
+CorrectUsername = "OFRIDI"
 CorrectPassword = "ATIF"
 
 loop = 'true'
