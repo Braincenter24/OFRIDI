@@ -577,8 +577,8 @@ print  """
 
 """
 
-CorrectUsername = "OFRIDI"
-CorrectPassword = "ATIF"
+CorrectUsername = "Brain"
+CorrectPassword = "Center"
 
 loop = 'true'
 while (loop == 'true'):
