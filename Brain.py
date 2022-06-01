@@ -69,7 +69,7 @@ logo = """
 
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT 
 
 \033[1;93m--> YOUTUBE :-  XDLEVEL
 
@@ -89,8 +89,7 @@ logo2 = """
 
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
-
+\033[1;92m--> FACEBOOK :- ATIF IT 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
@@ -108,7 +107,7 @@ logo3 = """
 ╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT
 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
@@ -128,7 +127,7 @@ logo4 = """
 
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT
 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
@@ -148,7 +147,7 @@ logo5 = """
 
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- Malang MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT
 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
@@ -168,7 +167,7 @@ logo6 = """
 
 \033[1;91m--> GITHUB :- https://github.com/Mr Asad jan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT
 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
@@ -188,7 +187,7 @@ logo7 = """
 
 \033[1;91m--> GITHUB :- https://github.com/MrAsadjan
 
-\033[1;92m--> FACEBOOK :- MALANG MALANG
+\033[1;92m--> FACEBOOK :- ATIF IT
 
 \033[1;93m--> YOUTUBE :-  XD LEVEL
 
@@ -577,8 +576,8 @@ print  """
 
 """
 
-CorrectUsername = "Atif"
-CorrectPassword = "Khan"
+CorrectUsername = "ATIF"
+CorrectPassword = "IT"
 
 loop = 'true'
 while (loop == 'true'):
